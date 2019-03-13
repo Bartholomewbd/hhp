@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Happy Hands PREP website",
   "main": "index.js",
-  "homepage": "https://Bartholomewbd.github.io/HHP/index",
+  "homepage": "https://Bartholomewbd.github.io/HHP/index.html",
   "scripts": {
     "sass": "node-sass -w scss / -o /assets/css/main.css --recursive",
     "deploy": "gh-pages -d /"
