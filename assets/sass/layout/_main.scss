@@ -74,11 +74,11 @@
       (
         columns: 2,
         gutters: (
-          _size(padding) * 4
+          _size(padding) * 4,
         ),
         horizontal-align: center,
         vertical-align: flex-start,
-        flush: false
+        flush: false,
       )
     );
     width: 100%;
@@ -109,9 +109,9 @@
         (
           columns: 2,
           gutters: (
-            _size(padding) * 2.5
+            _size(padding) * 2.5,
           ),
-          flush: false
+          flush: false,
         )
       );
     }
@@ -121,10 +121,10 @@
         (
           columns: 1,
           gutters: (
-            _size(padding) * 2
+            _size(padding) * 2,
           ),
           prev-columns: 2,
-          flush: false
+          flush: false,
         )
       );
 
